@@ -18,9 +18,9 @@ Whether you're interested in tracking trends in pet ownership, analyzing the pre
 ### Project Structure
 
 The project is organized into the following directories and files:
-•	Alteryx: This directory includes the workflows and scripts used for data preparation and profiling using Alteryx.
-•	Tableau: Holds the Tableau workbook and related files used for visualization.
-•	MySQL: Contains the SQL scripts used to create and manage the MySQL database, as well as the queries for analysis.
+- Alteryx: This directory includes the workflows and scripts used for data preparation and profiling using Alteryx.
+- Tableau: Holds the Tableau workbook and related files used for visualization.
+- MySQL: Contains the SQL scripts used to create and manage the MySQL database, as well as the queries for analysis.
 
 ### SQL Queries
 
