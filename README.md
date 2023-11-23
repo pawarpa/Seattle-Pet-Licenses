@@ -13,7 +13,8 @@ In an effort to enhance public safety, promote animal welfare, and maintain a he
 
 Whether you're interested in tracking trends in pet ownership, analyzing the prevalence of specific breeds, or understanding the geographical distribution of licensed pets, this project serves as a valuable resource. It is a testament to Seattle's proactive approach to fostering a harmonious coexistence between residents and their beloved pets. From the bustling urban areas to the serene neighborhoods, each data point contributes to a broader narrative of responsible pet ownership and the shared bond between Seattleites and their animal companions. 
 
-## Let's delve into the Seattle Pet Licenses dataset to discover the stories it tells about the city's vibrant and diverse pet community!
+**<em>Let's delve into the Seattle Pet Licenses dataset to discover the stories it tells about the city's vibrant and diverse pet community!
+</em>**
 
 ### Project Structure
 
