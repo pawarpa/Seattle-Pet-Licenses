@@ -48,6 +48,9 @@ MySQL query file provides a comprehensive set of analyses and transformations ap
 These queries provide a thorough exploration of the Seattle Pet Licenses dataset, covering a wide range of analyses and transformations to gain insights into pet ownership patterns in the city.
 
 ### Visualizations 
+
+Access the visualizations on [Tableau Public](https://public.tableau.com/views/SeattlePetLicenses_16903256943040/KPI?:language=en-US&:display_count=n&:origin=viz_share_link).
+
 <br>
 <p align="center">
 	<img src="Images/KPI.png" width='100%'><br><br>
