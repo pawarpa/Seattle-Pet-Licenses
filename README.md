@@ -1,7 +1,7 @@
 # SQL Analysis and Visualization: Seattle Pet Licenses
 
 ## Overview: 
-This repository contains the code and documentation for my academic project, where I conducted SQL analysis and visualization of the Seattle Pet Licenses dataset. The project aimed to explore and derive meaningful insights from the dataset using tools such as **Alteryx** for data preparation and profiling, **Tableau** for data visualization, and **MySQL** for database management.
+This repository contains the code and documentation for my academic project, where I conducted SQL analysis and visualization of the Seattle Pet Licenses dataset. The project aimed to explore and derive meaningful insights from the dataset using tools such as **Alteryx** for data preparation and profiling, **Tableau** and **PowerBI** for data visualization, and **MySQL** for database management.
 
 ## About the dataset:
 The dataset used is Seattle Pet Licenses, which is provided by the City of Seattle. This dataset is a reflection of Seattle's commitment to responsible pet ownership and community welfare. Its a comprehensive collection of information that provides valuable insights into the city's pet population.
@@ -20,7 +20,9 @@ Whether you're interested in tracking trends in pet ownership, analyzing the pre
 
 The project is organized into the following directories and files:
 - Alteryx: This directory includes the workflows and scripts used for data preparation and profiling using Alteryx.
+- Dataset: This directory consists the dataset used
 - Tableau: Holds the Tableau workbook and related files used for visualization.
+- PowerBI: Holds the Power BI .pbix file
 - MySQL: Contains the SQL scripts used to create and manage the MySQL database, as well as the queries for analysis.
 
 ### SQL Queries
@@ -58,6 +60,11 @@ Access the visualizations on [Tableau Public](https://public.tableau.com/views/S
     <em>Tableau Dashboard</em>
 </p>
 
+<br>
+<p align="center">
+	<img src="PowerBI/Dashboard.png" width='100%'><br><br>
+    <em>Power BI Dashboard</em>
+</p>
 
 
 
